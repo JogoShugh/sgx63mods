@@ -1,17 +1,9 @@
-# sgx63mods
-Sam's MC Mds
+# sgx63-umm
 
-## BIG IDEAS
-* Make MC much harder
-* Adds copies of same dimension, but much cooler
-* Makes regular mobs that are normally easy to defeat turn into extremely hard bosses
-* Supposed to be an adventure mod, does not impact modes
+## Setup
 
-## SMALL STEPS
+For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
 
-### Sprint 0
-* ~~Project Repository: Where to store code~~
-* Language: Kotlin
-* Framework: Fabric or Forge
-* CODE Skeleton Files: Empty MC mod
-* "Hello, MC" demo: Run mod and "Hello, Username" appear in debug messages
+## License
+
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
